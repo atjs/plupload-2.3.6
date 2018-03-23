@@ -11,4 +11,4 @@
 
 优化关键词 `setOption` `lock` `unlock`
 
-想想请参考 demo.js
+详细请参考 demo.js
