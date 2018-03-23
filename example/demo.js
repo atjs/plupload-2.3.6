@@ -50,7 +50,7 @@ function ImageUploadPreview(picId, $el) {
                 file.unlock();
                 typeof callback === 'function' && callback(file, result);
             },
-            url: 'http://api-upload.58pic.com/index.php?c=image&a=image'
+            url: '/index.php?c=image&a=image'
         });
     };
 
